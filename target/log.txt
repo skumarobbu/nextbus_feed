@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+<body copyright="All data copyright Emery-Go-Round 2015.">
+<predictions agencyTitle="Emery-Go-Round" routeTitle="Hollis" routeTag="Hollis" stopTitle="Hollis at 63rd" stopTag="ho64_i">
+  <direction title="to BART Station">
+  <prediction epochTime="1437091816989" seconds="917" minutes="15" isDeparture="false" affectedByLayover="true" dirTag="hollis_inbound" vehicle="208" block="6" />
+  <prediction epochTime="1437092009577" seconds="1109" minutes="18" isDeparture="false" affectedByLayover="true" dirTag="hollis_inbound" vehicle="067" block="8" />
+  <prediction epochTime="1437093952077" seconds="3052" minutes="50" isDeparture="false" affectedByLayover="true" dirTag="hollis_inbound" vehicle="208" block="6" />
+  <prediction epochTime="1437094425712" seconds="3525" minutes="58" isDeparture="false" affectedByLayover="true" dirTag="hollis_inbound" vehicle="067" block="8" />
+  <prediction epochTime="1437096087165" seconds="5187" minutes="86" isDeparture="false" affectedByLayover="true" dirTag="hollis_inbound" vehicle="208" block="6" />
+  </direction>
+</predictions>
+</body>
+
+Node Attributes: Hollis at 63rd
+Node Attributes: to BART Station
+Node Attributes: 15
+Node Attributes: 18
+Node Attributes: 50
+Node Attributes: 58
+Node Attributes: 86
+Json value : {"type": "note", "body": "xtBus Tracker", "channel_tag": "xtbus", "title": "Arrives in:15..18..50..58..86.."}
+POST Response Status:: 200
